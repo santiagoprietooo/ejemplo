@@ -5,6 +5,7 @@ import { leerNotas } from "./firebase.js";
 const inputNota = document.querySelector('#nota');
 const form = document.querySelector('form');
 const listaNotas = document.querySelector('#notas');
+console.log('cambio importante')
 
 let notas = [];
 // Funcion 1 - Leer los inputs y los pushea en array contactos
