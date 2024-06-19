@@ -23,4 +23,14 @@ Para agregar todos:       git add .
 4° Creo el commit
 git commit -m "Nombre de los cambios"
 
-Fin
+5° Vincular el repositorio remoto con el local
+git remote add origin https://github.com/santiagoprietooo/ejemplo.git
+
+6° Subir los cambios (committs)
+git push origin master
+
+## Para crear ramas
+git branch nombre
+
+## Para cambiarme de rama
+git chekout nombre
