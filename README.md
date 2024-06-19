@@ -1,4 +1,6 @@
-# GIT
+# Aplicación de notas
+
+![Captura](captura.png)
 
 ## Pasos
 
